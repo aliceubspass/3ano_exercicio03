@@ -1,0 +1,14 @@
+$fontePrincipal: Roboto, sans-serif;
+$corDoTexto: #000000;
+$corDefundo: #FFFFFF;
+$corTextoDoBotao: #FFF;
+$corDoFundoDoBotao: #69B99D;
+
+body{
+    background-color: $corDefundo;
+}
+
+h1{
+    font-family: $fontePrincipal;
+    font-size: 3em;
+}
